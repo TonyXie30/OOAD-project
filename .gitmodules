@@ -1,0 +1,6 @@
+[submodule "ooad-backend"]
+	path = ooad-backend
+	url = https://github.com/TonyXie30/ooad-backend.git
+[submodule "ooad-frontend"]
+	path = ooad-frontend
+	url = https://github.com/TonyXie30/ooad-frontend.git
